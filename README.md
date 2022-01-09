@@ -1,3 +1,3 @@
 # Matematica_Python
-Problemas matemáticos resolvidos em Python.
+Problemas de matemática resolvidos em Python.
 Objetivo: Exercitar a lógica de programação.
